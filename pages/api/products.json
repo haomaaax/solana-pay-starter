@@ -12,8 +12,9 @@
     "id": 2,
     "name": "Shiba",
     "price": "0.06",
-    "image_url": "https://media.giphy.com/media/1YeNJK6FptDdq1q59K/giphy.gif",
     "description": "A Cute Shiba include a haus NFT.",
+    "image_url": "https://media.giphy.com/media/1YeNJK6FptDdq1q59K/giphy.gif",
+    "filename": "SecretHausNFT.png",
     "hash": "QmV2R2vPCmZcYQJBsw2nNuTd6Q8HYuHfzxc619jYiHcXNz"
   }
 ]
